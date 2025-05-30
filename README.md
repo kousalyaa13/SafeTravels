@@ -10,7 +10,7 @@
 ---
 
 ## Screen Mockups
-[Mockups](SafeTravels_Screen_Mockups.jpg)
+![Mockups](SafeTravels_Screen_Mockups.jpg)
 
 ---
 
