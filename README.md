@@ -4,25 +4,17 @@
 
 ---
 
-## 🎨 Figma Preview
-
-[Click here to view the full Figma wireframe ▶](https://www.figma.com/file/YOUR_LINK_HERE)
-
----
-
-## 🖼️ Screenshots
-
-| Home Screen | Search Screen |
-|-------------|---------------|
-| ![Home](./assets/home.png) | ![Search](./assets/search.png) |
-
-| Destination Results | Detailed Info |
-|---------------------|----------------|
-| ![Results](./assets/results.png) | ![Detailed](./assets/detailed.png) |
+## [Figma Prototype Wireframe](https://www.figma.com/proto/pbmy9MT9q5XwksvLxcZeh6/SafeTravels-Screen-Mockups?node-id=2022-840&t=73vbcj3g9dL4lOSE-1)
+- All designs built for **iPhone 16** layout
 
 ---
 
-## 🛠️ Tools Used
+## Screen Mockups
+[Mockups](SafeTravels Screen Mockups.jpg)
+
+---
+
+## Tools Used
 
 - Figma (UI/UX Design)
 - Auto Layout + Components
@@ -30,20 +22,14 @@
 
 ---
 
-## 📱 Key Features
+## Key Features
 
-- 🔍 **Search Destinations** with safety data overlays
-- 🆘 **Emergency Alerts** and quick contact buttons
-- 🌍 **Local Contributor Posts** for real-time updates
-- 🌟 **Traveler Reviews** and featured safe destinations
-
----
-
-## 📂 Project Structure
-
-- **Wireframes** stored in `/assets`
-- Figma link embedded in README
-- All designs built for **iPhone 16** layout
+- **Search Destinations** with safety data overlays
+- **Emergency Alerts** and quick contact buttons
+- **Local Contributor Posts** for real-time updates
+- **Traveler Reviews** and featured safe destinations
+- **Personalized Travel Statistics** with safety ratings
+- **Spotlight** safety concerns
 
 ---
 
